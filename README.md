@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFdlqRD2B-Whw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718337350874?e=1735171200&v=beta&t=jh1XypeX9g7xn5OnSp8_KYgpSa7YeXA4WhWQSeFBleE)
 <h1 align="center">Hi 👋, I'm Debjit Patra</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
